@@ -8,4 +8,4 @@ REQUIREMENTS:
 
 Python 3.5 or higher. 
 
-Tensorflow 2.5.0 or higher (use of 2.5.0) will mean the code will not need modification but any version higher and there may be issues. (You will need to read into this is this is the case). 
+Tensorflow 2.5.0 or higher (use of 2.5.0) will mean the code will not need modification but any version higher and there may be issues. (You will need to read into this if this is the case). 
