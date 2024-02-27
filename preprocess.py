@@ -1,7 +1,4 @@
 """
-Program created by: Valerio Velardo
-
-Program modified by: George Smith-Kolff.
 
 Usage: To generate unheard audio samples for use in electronic music production.
 
